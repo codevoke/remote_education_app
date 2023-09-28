@@ -1,2 +1,2 @@
 """initialization of package with database models"""
-# from .filename import ModelName
+from .model_user import UserModel
